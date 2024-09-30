@@ -42,6 +42,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40"/> 
   </a>
 
+  <a href="https://ktor.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://icon.icepanel.io/Technology/svg/Ktor.svg" width="40" height="40"/> 
+  </a>
+
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
