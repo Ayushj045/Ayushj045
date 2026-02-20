@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayush Jaiswal</h1>
-<h3 align="center">A passionate Native Android Developer </h3>
+<h3 align="center">A passionate Software Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **Android Architecture and Advance DSA**
+- 🌱 I’m currently learning **Backend Architecture and Advance DSA**
 
-- 💬 Ask me about **Kotlin,Mobile App Dev and DSA**
+- 💬 Ask me about **Backend Development, Java, Spring Boot, Kotlin,Mobile App Dev and DSA**
 
 - 📫 How to reach me **jaiswalaman231211@gmail.com**
 
@@ -17,6 +17,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <!-- Java -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a>
+
+<!-- Spring Boot -->
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+</a>
   <!-- Android -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
