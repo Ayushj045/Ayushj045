@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **Backend Architecture and Advance DSA**
+- 🌱 I’m currently learning **Android App Development, Backend Architecture and Advance DSA**
 
-- 💬 Ask me about **Backend Development, Java, Spring Boot, Kotlin,Mobile App Dev and DSA**
+- 💬 Ask me about **Android App Dev, Backend Development, Kotlin, Compose,  Java, Spring Boot, and DSA**
 
 - 📫 How to reach me **jaiswalaman231211@gmail.com**
 
